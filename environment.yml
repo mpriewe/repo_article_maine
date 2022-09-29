@@ -1,9 +1,0 @@
-name: environment
-channels:
-  - defaults
-dependencies:
-  - plotly
-  - numpy
-  - pandas
-  - notebook
-
