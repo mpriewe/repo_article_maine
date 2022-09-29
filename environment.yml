@@ -1,0 +1,9 @@
+name: environment
+channels:
+  - defaults
+dependencies:
+  - plotly
+  - numpy
+  - pandas
+  - notebook
+prefix: C:\Users\seyda\anaconda3\envs\environment
