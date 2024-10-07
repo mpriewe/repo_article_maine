@@ -44,7 +44,7 @@ nbconvert=6.4.4=py310haa95532_0
 nbformat=5.5.0=py310haa95532_0
 nest-asyncio=1.5.5=py310haa95532_0
 notebook=6.4.12=py310haa95532_0
-numexpr=2.8.3=py310hb57aa6b_0
+numexpr=2.8.5=py310hb57aa6b_0
 numpy=1.23.1=py310h6d2d95c_0
 numpy-base=1.23.1=py310h206c741_0
 openssl=1.1.1q=h2bbff1b_0
